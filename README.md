@@ -31,10 +31,6 @@ Enjoy playing the Breaking Bricks game!
 
 ---
 
-**Note:** Make sure to have the "logo.jpg" image file and the "script.js" file in the same directory as the HTML file for the game to run properly.
-
----
-
 This website was created using ChatGPT and following the course "Curso de Creación de Páginas Web con ChatGPT" on Platzi. If you're interested in learning how to create web pages with ChatGPT, you can check out the course [here](https://platzi.com/cursos/web-chatgpt/).
 
 ---
